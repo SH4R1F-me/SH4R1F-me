@@ -9,3 +9,4 @@
 📫 How to reach me: You can reach out to me via LinkedIn @sharifmadber I’m always open to networking and collaboration opportunities.
 
 ⚡ Fun fact: I'm a huge fan of CTF competitions, where I get to test my hacking skills and learn from the best. In my spare time, I love experimenting with Raspberry Pi projects to automate everyday tasks at home.
+
